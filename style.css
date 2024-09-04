@@ -2,3 +2,9 @@ h1 {
     text-align: center;
 }
 body {background-color: rgb(231, 229, 223);}
+
+ul {
+    list-style-type: none;
+    margin: 1;
+    padding: 0;
+}
