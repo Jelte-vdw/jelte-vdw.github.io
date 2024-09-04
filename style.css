@@ -3,8 +3,4 @@ h1 {
 }
 body {background-color: rgb(231, 229, 223);}
 
-ul {
-    list-style-type:disc; 
-    margin:25;
-    padding:25;
-}
+li {display:inline;}
