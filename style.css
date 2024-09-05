@@ -8,3 +8,5 @@ li {float:inline-start;}
 a {display: block;
     padding: 10px;
     background-color:rgb(218, 218, 215);}
+    a {font-family: 'Courier New', Courier, monospace;}
+    a {color: rgb(255, 247, 240);}
