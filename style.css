@@ -3,6 +3,7 @@ h1 {text-align: center;}
 body {background-color: rgb(231, 229, 223);}
 
 li {float:inline-start;}
+li {text-align: center;}
 li a {display:block}
    a {padding: 10px;}
    a {background-color:rgb(218, 218, 215);}
