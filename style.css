@@ -9,7 +9,7 @@ p {margin-right: 10px;}
 
     ul {
         list-style-type: none;
-        margin: 0;
+        margin: 5;
         padding: 0;
         overflow: hidden;
         background-color:rgb(218, 218, 215); }
