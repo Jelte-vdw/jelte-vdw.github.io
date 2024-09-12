@@ -7,8 +7,7 @@ p {font-family: Arial, Helvetica, sans-serif;}
 p {margin-right: 10px;}
         /*dit is een WIP want hij werkt niet, het hoort de p_ teksten een font te geven*/
 
-    ul {
-        list-style-type: none;
+    ul {list-style-type: none;
         margin: 0;
         padding: 0;
         overflow: hidden;
