@@ -15,7 +15,6 @@ p {margin-right: 10px;}
     li {float:left;
         border-right: 3px solid rgb(230, 230, 223);
         display: inline;}
-    li:last-child {border-right: none;}
     li a {display: block;
         color: rgb(33, 31, 30);
         text-align: center;
