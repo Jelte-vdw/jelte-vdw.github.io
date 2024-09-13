@@ -31,5 +31,5 @@ p {margin-right: 10px;}
         font-family:Arial, Helvetica, sans-serif;
         color: rgb(33, 31, 30);
         text-size-adjust: 10;}
-    li a:hover:not(.active) {background-color:rgb(224, 224, 219)}
+    li a:hover:not(.active) {background-color:rgb(223, 223, 218)}
     .active {background-color:rgb(230, 230, 223);}
