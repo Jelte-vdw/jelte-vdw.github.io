@@ -17,13 +17,13 @@ li {float:left; /*plaatst de 'boxes' van het menu links*/
     border-right: 3px solid rgb(230, 230, 223); /*Maakt een rand aan de rechter kant van elke box en geeft ze een kleur*/
     display: inline;} /*plaatst de boxen naast elkaar ipv onder elkaar*/
 li a {display: block; /*zet een blok om het lijst-item heen*/
-    color: rgb(33, 31, 30); /*bepaalt de kleur van het lijst-item*/
-    text-align: center; /*centreert het lijst item in het blok*/
-    text-decoration:none;
-    padding: 15px 17px;} /*haalt de standaard onderstreping weg bij de linkjes/lijst-items*/
-a {
-    margin: 0;
+    padding: 15px 17px;
     background-color:rgb(218, 218, 215);
+    padding: 15px 17px;} 
+a {color: rgb(33, 31, 30); /*bepaalt de kleur van het lijst-item*/
+    text-align: center; /*centreert het lijst item in het blok*/
+    text-decoration:none; /*haalt de standaard onderstreping weg bij de linkjes/lijst-items*/
+    margin: 0;
     font-family:Arial, Helvetica, sans-serif;}
 li a:hover:not(.active) {background-color:rgb(223, 223, 218)}
 .active {background-color:rgb(230, 230, 223);}
