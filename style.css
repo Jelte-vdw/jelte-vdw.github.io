@@ -1,29 +1,28 @@
-h1 {text-align: center; /*Zet titel in het midden*/
-    font-family: Georgia, 'Times New Roman', Times, serif;} /*Verandert het lettertype van de titel*/
+h1 {text-align:center; /*Zet titel in het midden*/
+    font-family:Georgia, 'Times New Roman', Times, serif;} /*Verandert het lettertype van de titel*/
 
-body {background-color: rgb(230, 230, 223);} /*Geeft de webpagina een aangepaste achtergrondkleur*/
+body {background-color:rgb(230, 230, 223);} /*Geeft de webpagina een aangepaste achtergrondkleur*/
 
-p {font-family: Arial, Helvetica, sans-serif; /*Paragraaf tekst lettertype*/
-    color: rgb(33, 31, 30); /*Paragraaf tekst kleur*/
-    margin-left: 3px;} /*Geeft de paragraaftekst een inspringing van 3px vanaf de linker rand*/
+p {font-family:Arial, Helvetica, sans-serif; /*Paragraaf tekst lettertype*/
+    color:rgb(33, 31, 30); /*Paragraaf tekst kleur*/
+    margin-left:3px;} /*Geeft de paragraaftekst een inspringing van 3px vanaf de linker rand*/
 
-ul {list-style-type: none; /*Zorgt ervoor dat er geen tekens voor de lijst-items staan*/
+ul {list-style-type:none; /*Zorgt ervoor dat er geen tekens voor de lijst-items staan*/
     position:static; /*bepaalt de positie van de lijst (vast bovenaan de pagina)*/
-    overflow: hidden; /*Zorgt ervoor dat het menu een eigen regel heeft en niet naast de titel komt te staan*/
-    margin: 0; /*Zet de margin van de lijst op 0 (zorgt voor dunne bovenrand)*/
-    padding: 0; /*Zet de padding van de lijst op 0 (plaatst 1e lijst-item helemaal links)*/
+    overflow:hidden; /*Zorgt ervoor dat het menu een eigen regel heeft en niet naast de titel komt te staan*/
+    margin:0; /*Zet de margin van de lijst op 0 (zorgt voor dunne bovenrand)*/
+    padding:0; /*Zet de padding van de lijst op 0 (plaatst 1e lijst-item helemaal links)*/
     background-color:rgb(218, 218, 215);} /*kleurt de balk rechts van het menu dezelfde kleur ald het menu zelf*/
 li {float:left; /*plaatst de 'boxes' van het menu links*/
-    border-right: 3px solid rgb(230, 230, 223); /*Maakt een rand aan de rechter kant van elke box en geeft ze een kleur*/
-    display: inline;} /*plaatst de boxen naast elkaar ipv onder elkaar*/
-li a {display: block; /*zet een blok om het lijst-item heen*/
-    padding: 15px 17px;
-    background-color:rgb(218, 218, 215);
-    padding: 15px 17px;} 
-a {color: rgb(33, 31, 30); /*bepaalt de kleur van het lijst-item*/
-    text-align: center; /*centreert het lijst item in het blok*/
+    border-right:3px solid rgb(230, 230, 223); /*Maakt een rand aan de rechter kant van elke box en geeft ze een kleur*/
+    display:inline;} /*plaatst de boxen naast elkaar ipv onder elkaar*/
+li a {display:block; /*zet een blok om het lijst-item heen*/
+    padding:15px 17px; /*bepaald de grote van het blok (15px onder & boven, 17px links & rechts)*/
+    background-color:rgb(218, 218, 215);} /*bepaalt de achtergrondkleur van het blok*/
+a {font-family:Arial, Helvetica, sans-serif; /*bepaalt het lettertype van de lijst-items*/
+    color:rgb(33, 31, 30); /*bepaalt de kleur van het lijst-item*/
+    text-align:center; /*centreert het lijst-item in het blok*/
     text-decoration:none; /*haalt de standaard onderstreping weg bij de linkjes/lijst-items*/
-    margin: 0;
-    font-family:Arial, Helvetica, sans-serif;}
+    margin:0;} /*voorkomt ongewilde verschuivingen*/
 li a:hover:not(.active) {background-color:rgb(223, 223, 218)}
 .active {background-color:rgb(230, 230, 223);}
