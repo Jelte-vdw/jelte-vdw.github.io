@@ -10,35 +10,7 @@ p {font-family: Arial, Helvetica, sans-serif;
     color: rgb(33, 31, 30);
     margin-left: 3px;}
 
-/*
-
-ul {list-style-type: none;
-    position:static;
-    margin: 0;
-    padding: 0;
-    overflow: hidden;
-    background-color:rgb(218, 218, 215);}
-li {float:left;
-    border-right: 3px solid rgb(230, 230, 223);
-    display: inline;}
-li a {display: block;
-    color: rgb(33, 31, 30);
-    text-align: center;
-    padding: 8;
-    margin: 0;
-    text-decoration:none;}
-a {padding-top: 15px;
-    padding-bottom: 15px;
-    padding-left: 17px;
-    padding-right: 17px;
-    margin: 0;
-    background-color:rgb(218, 218, 215);
-    font-family:Arial, Helvetica, sans-serif;
-    color: rgb(33, 31, 30);
-    text-size-adjust: 10;}
-li a:hover:not(.active) {background-color:rgb(223, 223, 218)}
-.active {background-color:rgb(230, 230, 223);}
-*/
+/*menu opmaak*/
 ul {list-style-type: none;
     position:static;
     overflow: hidden;
