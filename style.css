@@ -14,7 +14,7 @@ ul {list-style-type:none; /*Zorgt ervoor dat er geen tekens voor de lijst-items 
     padding:0; /*Zet de padding van de lijst op 0 (plaatst 1e lijst-item helemaal links)*/
     background-color:rgb(218, 218, 215);} /*kleurt de balk rechts van het menu dezelfde kleur ald het menu zelf*/
 li {float:left; /*plaatst de 'boxes' van het menu links*/
-    border-right:5px solid rgb(230, 230, 223); /*Maakt een rand aan de rechter kant van elke box en geeft ze een kleur*/
+    border-right:4px solid rgb(230, 230, 223); /*Maakt een rand aan de rechter kant van elke box en geeft ze een kleur*/
     display:inline;} /*plaatst de boxen naast elkaar ipv onder elkaar*/
 li a {display:block; /*zet een blok om het lijst-item heen*/
     padding:15px 17px; /*bepaald de grote van het blok (15px onder & boven, 17px links & rechts)*/
