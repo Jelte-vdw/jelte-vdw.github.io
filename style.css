@@ -19,7 +19,7 @@ li {float:left; /*plaatst de 'boxes' van het menu links*/
 li a {
     color: rgb(33, 31, 30);
     text-align: center;
-    
+    padding: 8;
     text-decoration:none;} /*haalt de standaard onderstreping weg bij de linkjes/lijst-items*/
 a {padding: 15px 17px;
     margin: 0;
