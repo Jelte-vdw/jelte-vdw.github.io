@@ -24,5 +24,6 @@ a {font-family:Arial, Helvetica, sans-serif; /*bepaalt het lettertype van de lij
     text-align:center; /*centreert het lijst-item in het blok*/
     text-decoration:none; /*haalt de standaard onderstreping weg bij de linkjes/lijst-items*/
     margin:0;} /*voorkomt ongewilde verschuivingen*/
-li a:hover:not(.active) {background-color:rgb(223, 223, 218)}
-.active {background-color:rgb(230, 230, 223);}
+li a:hover:not(.active) {background-color:rgb(183, 183, 179)} /*Verandert de kleur van een lijst-blok wanneer je er met je muis overheen hangt, behalve als het lijst-item degene is van de pagina waarop je je bevindt*/
+.active {background-color:rgb(230, 230, 223);} /*verandert de kleur van het lijst-item's blokje wanneer deze overeenkomt met de pagina waarop je je bevindt*/
+/*oude hover rgb 223, 223, 218*/
