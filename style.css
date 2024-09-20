@@ -11,7 +11,7 @@ h1 {
 h2 {
     font-family:Georgia, 'Times New Roman', Times, serif; /*Verandert het lettertype van de koptekst*/
     color:rgb(35, 34, 32); /*koptekst kleur*/
-    margin:0px 0px 15px 10px; /*Geeft de koptekst een inspringing van 2px vanaf de linker rand*/
+    margin:0px 0px 10px 15px; /*Geeft de koptekst een inspringing van 2px vanaf de linker rand*/
 }
 
 p {
