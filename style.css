@@ -5,12 +5,12 @@ body {
 h1 {
     text-align:center; /*Zet titel in het midden*/
     font-family:Georgia, 'Times New Roman', Times, serif; /*Verandert het lettertype van de titel*/
-    color:rgb(62, 60, 56); /*Titel kleur*/
+    color:rgb(35, 34, 32); /*Titel kleur*/
 } 
 
 h2 {
     font-family:Georgia, 'Times New Roman', Times, serif; /*Verandert het lettertype van de koptekst*/
-    color:rgb(35, 34, 32); /*koptekst kleur*/
+    color:rgb(72, 69, 64); /*koptekst kleur*/
     margin:0px 0px 10px 15px; /*Geeft de koptekst een inspringing van 2px vanaf de linker rand*/
 }
 
