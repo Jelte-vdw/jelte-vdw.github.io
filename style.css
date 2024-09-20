@@ -8,6 +8,12 @@ h1 {
     color:rgb(35, 34, 32); /*Titel kleur*/
 } 
 
+h3 {
+    font-family:Georgia, 'Times New Roman', Times, serif; /*Verandert het lettertype van de koptekst*/
+    color:rgb(35, 34, 32); /*koptekst kleur*/
+    margin-left:5px; /*Geeft de koptekst een inspringing van 2px vanaf de linker rand*/
+}
+
 p {
     font-family:Arial, Helvetica, sans-serif; /*Paragraaf tekst lettertype*/
     color:rgb(35, 34, 32); /*Paragraaf tekst kleur*/
