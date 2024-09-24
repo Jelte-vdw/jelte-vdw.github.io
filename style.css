@@ -11,13 +11,14 @@ h1 {
 h2 {
     font-family:Georgia, 'Times New Roman', Times, serif; /*Verandert het lettertype van de koptekst*/
     color:rgb(67, 65, 61); /*koptekst kleur*/
-    margin:0px 0px 10px 15px; /*Geeft de koptekst een inspringing van 2px vanaf de linker rand*/
+    margin:0px 0px 10px 15px; /*Geeft de k!!!!!!!!!!!!!!!!!*/
 }
 
 p {
     font-family:Arial, Helvetica, sans-serif; /*Paragraaf tekst lettertype*/
     color:rgb(35, 34, 32); /*Paragraaf tekst kleur*/
     margin-left:2px; /*Geeft de paragraaftekst een inspringing van 2px vanaf de linker rand*/
+    margin-right: 10px; /*!!!!!!!!!!!!*/
 }
 
 ul {
@@ -46,7 +47,7 @@ a {
     margin:0; /*voorkomt ongewensde verschuivingen*/
  }
 li a:hover:not(.active) {
-    background-color:rgb(222, 222, 217) /*Verandert de kleur van een lijst-blok wanneer je er met je muis overheen hangt, behalve als het lijst-item degene is van de pagina waarop je je bevindt*/
+    background-color:rgb(222, 222, 217); /*Verandert de kleur van een lijst-blok wanneer je er met je muis overheen hangt, behalve als het lijst-item degene is van de pagina waarop je je bevindt*/
  }
 .active {
     background-color:rgb(230, 230, 223); /*verandert de kleur van het lijst-item's blokje wanneer deze overeenkomt met de pagina waarop je je bevindt*/
