@@ -18,7 +18,7 @@ p {
     font-family:Arial, Helvetica, sans-serif; /*Paragraaf tekst lettertype*/
     color:rgb(35, 34, 32); /*Paragraaf tekst kleur*/
     margin-left:2px; /*Geeft de paragraaftekst een inspringing van 2px vanaf de linker rand*/
-    margin-right: 10px; /*!!!!!!!!!!!!*/
+    margin-right: 20px; /*!!!!!!!!!!!!*/
 }
 
 ul {
