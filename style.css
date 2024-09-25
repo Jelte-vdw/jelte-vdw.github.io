@@ -22,11 +22,13 @@ p {
 }
 
 img {
-    height: 350px;
+    height: 250px;
     width: auto;
-    border: 6px solid rgb(218, 218, 215);
+    border: 10px solid rgb(218, 218, 215);
+ }
+.png {
+    background-color:rgb(255, 255, 255);
 }
-.png {background-color:rgb(255, 255, 255);}
 
 ul {
     list-style-type:none; /*Zorgt ervoor dat er geen tekens voor de lijst-items staan*/
