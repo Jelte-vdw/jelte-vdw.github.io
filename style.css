@@ -17,12 +17,12 @@ h2 {
 p {
     font-family:Arial, Helvetica, sans-serif; /*Paragraaf tekst lettertype*/
     color:rgb(35, 34, 32); /*Paragraaf tekst kleur*/
-    margin-left:2px; /*Geeft de paragraaftekst een inspringing van 2px vanaf de linker rand*/
+    margin-left:3px; /*Geeft de paragraaftekst een inspringing van 2px vanaf de linker rand*/
     margin-right: 30px; /*!!!!!!!!!!!!*/
 }
 
 img {
-    height: 250px;
+    height: 200px;
     width: auto;
     border: 7px solid rgb(218, 218, 215);
     margin: 0px 0px 10px 5px;
