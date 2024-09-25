@@ -11,28 +11,28 @@ h1 {
 h2 {
     font-family:Georgia, 'Times New Roman', Times, serif; /*Verandert het lettertype van de koptekst*/
     color:rgb(58, 56, 53); /*koptekst kleur*/
-    margin:0 0 2% 3%; /*margin B:0 R:0 O:10px L:15px*/
+    margin:0px 0px 10px 15px; /*margin B:0 R:0 O:10px L:15px*/
 }
 
 p {
     font-family:Arial, Helvetica, sans-serif; /*Paragraaf tekst lettertype*/
     color:rgb(35, 34, 32); /*Paragraaf tekst kleur*/
-    margin-left:1%; /*Geeft de paragraaftekst een inspringing van 2px vanaf de linker rand*/
+    margin-left:3px; /*Geeft de paragraaftekst een inspringing van 2px vanaf de linker rand*/
     margin-right:30px; /*margin rechts op 30px*/
 }
 
 img {
-    height:20%; /*'reguliere' fotos worden 200px lang*/
+    height:200px; /*'reguliere' fotos worden 200px lang*/
     width:auto; /*zet breedte van foto op schaal met hoogte=200px*/
     border:7px solid rgb(218, 218, 215); /*gekleurde rand van 7px bij elke foto*/
-    margin:0 0 2% 1%; /*margin B:0 R:0 O:10px L:5px*/
+    margin:0px 0px 10px 5px; /*margin B:0 R:0 O:10px L:5px*/
  }
 .png {
     background-color:rgb(255, 255, 255); /*fotos in class 'png' krijgen witte achtergrond*/
  }
 .wijd {
     height:auto; /*zet breedte van foto in class 'wijd' op schaal met hoogte=700px*/
-    width: 70%; /*fotos in class 'wijd' worden 700px lang*/
+    width: 700px; /*fotos in class 'wijd' worden 700px lang*/
 }
 
 ul {
@@ -50,7 +50,7 @@ li {
  }
 li a {
     display:block; /*zet een blok om het lijst-item heen*/
-    padding:4%; /*bepaald de grote van het blok (15px onder & boven, 17px links & rechts)*/
+    padding:15px 17px; /*bepaald de grote van het blok (15px onder & boven, 17px links & rechts)*/
     background-color:rgb(218, 218, 215); /*bepaalt de achtergrondkleur van het blok*/
  }
 a {
