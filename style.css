@@ -27,13 +27,12 @@ img {
     border:7px solid rgb(218, 218, 215);
     margin:0px 0px 10px 5px;
  }
- /*
 .png {
     background-color:rgb(255, 255, 255);
-}*/
+ }
 .wijd {
     height:auto;
-    width:250px;
+    width:450px;
 }
 
 ul {
