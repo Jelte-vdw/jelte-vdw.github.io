@@ -35,7 +35,7 @@ img {
     width: 650px; /*fotos in class 'wijd' worden 650px lang*/
 }
 
-iframe {
+.video {
     margin-left:5px;
     margin-bottom:5px;
     border:7px solid rgb(218, 218, 215);
