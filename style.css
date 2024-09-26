@@ -55,6 +55,7 @@ ul {
 li {
     float:left; /*plaatst de 'boxes' van het menu links*/
     border-right:4px solid rgb(230, 230, 223); /*Maakt een rand aan de rechter kant van elke box en geeft ze een kleur*/
+    border-bottom:4px solid rgb(230, 230, 223); /*Maakt een rand aan de onderkant van elke box en geeft ze een kleur*/
     display:inline; /*plaatst de boxen naast elkaar ipv onder elkaar*/
  }
 li a {
