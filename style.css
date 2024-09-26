@@ -79,6 +79,14 @@ footer {
     bottom:0;
     jus;
  }
+
+ footer {
+    display: flex;
+    justify-content: center;
+    height: 100vh;
+ }
+
+
 .foot {
     margin-left:10px;
 }
