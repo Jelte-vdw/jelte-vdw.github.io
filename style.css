@@ -35,6 +35,11 @@ img {
     width: 700px; /*fotos in class 'wijd' worden 700px lang*/
 }
 
+iframe {
+    margin-left:5px;
+    margin-bottom:5px;
+}
+
 ul {
     list-style-type:none; /*Zorgt ervoor dat er geen tekens voor de lijst-items staan*/
     position:static; /*bepaalt de positie van de lijst (vast bovenaan de pagina)*/
