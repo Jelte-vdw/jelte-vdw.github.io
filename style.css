@@ -10,14 +10,14 @@ h1 {
 
 h2 {
     font-family:Georgia, 'Times New Roman', Times, serif; /*Verandert het lettertype van de koptekst*/
-    color:rgb(58, 56, 53); /*koptekst kleur*/
+    color:rgb(46, 45, 43); /*koptekst kleur*/
     margin:23px 0px 7px 15px; /*margin B:23px R:0px O:7px L:15px*/
 }
 
 p {
     font-family:Arial, Helvetica, sans-serif; /*Paragraaf tekst lettertype*/
     font-size:1.1em; /*1em is 16px, 16x1.1≃18px lettergrootte*/
-    color:rgb(35, 34, 32); /*Paragraaf tekst kleur*/
+    color:rgb(58, 56, 53); /*Paragraaf tekst kleur*/
     margin-left:3px; /*Geeft de paragraaftekst een inspringing van 2px vanaf de linker rand*/
     margin-right:30px; /*margin rechts op 30px*/
 }
