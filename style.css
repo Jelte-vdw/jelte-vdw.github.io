@@ -72,3 +72,7 @@ li a:hover:not(.active) {
 .active {
     background-color:rgb(230, 230, 223); /*verandert de kleur van het lijst-item's blokje wanneer deze overeenkomt met de pagina waarop je je bevindt*/
 }
+
+footer {
+    background-color:rgb(218, 218, 215)
+}
