@@ -16,6 +16,7 @@ h2 {
 
 p {
     font-family:Arial, Helvetica, sans-serif; /*Paragraaf tekst lettertype*/
+    font-size:1.5em; /*1em is 16px, 16x1.5= 32px lettergrootte*/
     color:rgb(35, 34, 32); /*Paragraaf tekst kleur*/
     margin-left:3px; /*Geeft de paragraaftekst een inspringing van 2px vanaf de linker rand*/
     margin-right:30px; /*margin rechts op 30px*/
