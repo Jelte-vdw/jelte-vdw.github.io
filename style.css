@@ -50,7 +50,8 @@ ul {
     overflow:hidden; /*Zorgt ervoor dat het menu een eigen regel heeft en niet naast de titel komt te staan*/
     margin:0; /*Zet de margin van de lijst op 0 (zorgt voor dunne bovenrand)*/
     padding:0; /*Zet de padding van de lijst op 0 (plaatst 1e lijst-item helemaal links)*/
-    background-color:rgb(218, 218, 215); /*kleurt de balk rechts van het menu dezelfde kleur ald het menu zelf*/
+    background-color:rgb(218, 218, 215); /*kleurt de balk rechts van het menu dezelfde kleur als het menu zelf*/
+    border-bottom:4px solid rgb(230, 230, 223);
  }
 li {
     float:left; /*plaatst de 'boxes' van het menu links*/
