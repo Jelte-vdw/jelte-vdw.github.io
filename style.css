@@ -85,5 +85,5 @@ footer {
     margin-left:15px; /*linker inspringing*/
     color:rgb(61, 60, 56); /*tekst kleur*/
     font-size:1em; /*houdt de tekst in de footer 1em ipv 1.1*/
-    line-height:1.1em; /*1em is 16px, 16x1.1≃18px regelafstand*/
+    line-height:20px; /*20px regelafstand*/
 }
