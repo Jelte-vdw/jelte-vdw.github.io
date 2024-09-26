@@ -26,7 +26,7 @@ img {
     height:200px; /*'reguliere' fotos worden 200px lang*/
     width:auto; /*zet breedte van foto op schaal met hoogte=200px*/
     border:7px solid rgb(218, 218, 215); /*gekleurde rand van 7px bij elke foto*/
-    margin-left:5px; /*margin L:5px*/
+    margin-left:10px; /*margin L:10px*/
  }
 .png {
     background-color:rgb(255, 255, 255); /*fotos in class 'png' krijgen witte achtergrond*/
@@ -34,17 +34,13 @@ img {
 .wijd {
     height:auto; /*zet breedte van foto in class 'wijd' op schaal met hoogte=700px*/
     width: 650px; /*fotos in class 'wijd' worden 650px lang*/
+    margin-bottom:5px;
 }
 
 .video {
-    margin-left:5px;
+    margin-left:10px;
     margin-bottom:5px;
     border:7px solid rgb(218, 218, 215);
-}
-.bonanza {
-    margin:0;
-    height:375;
-    width:525;
 }
 
 ul {
