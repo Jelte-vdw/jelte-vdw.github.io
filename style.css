@@ -77,9 +77,9 @@ li a:hover:not(.active) {
 footer {
     background-color:rgb(218, 218, 215);
     padding:3px;
-    bottom:0;
  }
 .foot {
-    margin-left:15px;
-    color:rgb(61, 60, 56);
+    margin-left:15px; /*linker inspringing*/
+    color:rgb(61, 60, 56); /*tekst kleur*/
+    font-size:1em; /*houdt de tekst in de footer 1em ipv 1.1*/
 }
