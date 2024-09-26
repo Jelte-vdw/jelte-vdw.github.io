@@ -26,7 +26,7 @@ img {
     height:200px; /*'reguliere' fotos worden 200px lang*/
     width:auto; /*zet breedte van foto op schaal met hoogte=200px*/
     border:7px solid rgb(218, 218, 215); /*gekleurde rand van 7px bij elke foto*/
-    margin:0px 0px 10px 5px; /*margin B:0 R:0 O:10px L:5px*/
+    margin-left:5px; /*margin L:5px*/
  }
 .png {
     background-color:rgb(255, 255, 255); /*fotos in class 'png' krijgen witte achtergrond*/
@@ -82,6 +82,7 @@ li a:hover:not(.active) {
 footer {
     background-color:rgb(218, 218, 215);
     padding:3px;
+    margin-top:10px;
  }
 .foot {
     margin-left:15px; /*linker inspringing*/
