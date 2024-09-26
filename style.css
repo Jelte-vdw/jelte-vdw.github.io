@@ -41,6 +41,11 @@ img {
     margin-bottom:5px;
     border:7px solid rgb(218, 218, 215);
 }
+.bonanza {
+    margin:0;
+    height:375;
+    width:auto;
+}
 
 ul {
     list-style-type:none; /*Zorgt ervoor dat er geen tekens voor de lijst-items staan*/
