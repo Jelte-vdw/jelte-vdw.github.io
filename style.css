@@ -32,12 +32,13 @@ img {
  }
 .wijd {
     height:auto; /*zet breedte van foto in class 'wijd' op schaal met hoogte=700px*/
-    width: 700px; /*fotos in class 'wijd' worden 700px lang*/
+    width: 650px; /*fotos in class 'wijd' worden 650px lang*/
 }
 
 iframe {
     margin-left:5px;
     margin-bottom:5px;
+    border:7px solid rgb(218, 218, 215);
 }
 
 ul {
