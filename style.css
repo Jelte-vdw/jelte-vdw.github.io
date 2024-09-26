@@ -11,7 +11,7 @@ h1 {
 h2 {
     font-family:Georgia, 'Times New Roman', Times, serif; /*Verandert het lettertype van de koptekst*/
     color:rgb(58, 56, 53); /*koptekst kleur*/
-    margin:15px 0px 10px 15px; /*margin B:7 R:0 O:10px L:15px*/
+    margin:20px 0px 10px 15px; /*margin B:20px R:0px O:10px L:15px*/
 }
 
 p {
