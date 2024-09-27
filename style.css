@@ -20,6 +20,9 @@ p {
     color:rgb(58, 56, 53); /*Paragraaf tekst kleur*/
     margin-left:3px; /*Geeft de paragraaftekst een inspringing van 2px vanaf de linker rand*/
     margin-right:30px; /*margin rechts op 30px*/
+ }
+ .rechts {
+    float:right;
 }
 
 img {
@@ -40,10 +43,8 @@ img {
 .gedetailleerd {
     height:280px;
     width:auto;
- }
-/*.rechts {
-    float:right;
-}*/
+}
+
 
 .video {
     margin-left:10px;
