@@ -27,17 +27,17 @@ p {
 }
 
 img {
-    height:210px; /*'reguliere' fotos worden 210px hoog*/
+    height:210px; /*'reguliere' foto's worden 210px hoog*/
     width:auto; /*zet breedte van foto op schaal met hoogte=210px*/
     border:7px solid rgb(218, 218, 215); /*gekleurde rand van 7px bij elke foto*/
     margin-left:10px; /*margin L:10px*/
  }
 .png {
-    background-color:rgb(255, 255, 255); /*fotos in class 'png' krijgen witte achtergrond*/
+    background-color:rgb(255, 255, 255); /* foto's in class 'png' krijgen witte achtergrond*/
  }
 .wijd {
     height:auto; /*zet breedte van foto in class 'wijd' op schaal met hoogte=700px*/
-    width: 650px; /*fotos in class 'wijd' worden 650px lang*/
+    width: 650px; /*foto's in class 'wijd' worden 650px lang*/
     margin-bottom:5px; /*zodat de wijde foto even hoog staat als de vid*/
     margin-left:5px ; /*linker margin 5px ipv 10 zodat hij dichter bij de vid staat*/
  }
@@ -49,7 +49,7 @@ img {
     float:right;
     margin-left:5px; /*margin L:5px ipv standaard 10*/
     margin-right:10px; /*margin R:10px ipv standaard 0*/
-    height:200px; /*fotos in class 'rechts' worden 200px lang*/
+    height:200px; /*foto's in class 'rechts' worden 200px lang*/
     width:auto;
 }
 
