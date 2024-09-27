@@ -23,8 +23,8 @@ p {
 }
 
 img {
-    height:200px; /*'reguliere' fotos worden 200px lang*/
-    width:auto; /*zet breedte van foto op schaal met hoogte=200px*/
+    height:210px; /*'reguliere' fotos worden 210px hoog*/
+    width:auto; /*zet breedte van foto op schaal met hoogte=210px*/
     border:7px solid rgb(218, 218, 215); /*gekleurde rand van 7px bij elke foto*/
     margin-left:10px; /*margin L:10px*/
  }
