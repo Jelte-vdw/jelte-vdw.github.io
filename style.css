@@ -43,6 +43,8 @@ img {
  }
 .rechts {
     float:right;
+    margin-left:5px; /*margin L:5px ipv standaard 10*/
+    margin-right:10px /*margin R:10px ipv standaard 0*/
 }
 
 .video {
