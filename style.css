@@ -36,6 +36,10 @@ img {
     width: 650px; /*fotos in class 'wijd' worden 650px lang*/
     margin-bottom:5px; /*zodat de wijde foto even hoog staat als de vid*/
     margin-left:5px ; /*linker margin 5px ipv 10 zodat hij dichter bij de vid staat*/
+ }
+.gedetailleerd {
+    height:300px;
+    width:auto;
 }
 
 .video {
